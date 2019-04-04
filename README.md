@@ -1,3 +1,9 @@
+# Project comment
+
+This repo is the end of course result for a React course. The project would not be fully running if deployed as it depend on a back-end which is not part of this directory.
+
+# General React README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
